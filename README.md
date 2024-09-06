@@ -1,0 +1,1 @@
+This project clusters time series by integrating existing frameworks for analyzing and clustering physiological time-series data to compare and find recurring patterns within and across individuals, which ultimately correlate with behavioral outcomes.
