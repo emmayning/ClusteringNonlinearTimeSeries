@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 *.mat  # If you have MATLAB files you don't want to track
 /Functions/config.m # Hide paths
+/Simulation code/error.log
