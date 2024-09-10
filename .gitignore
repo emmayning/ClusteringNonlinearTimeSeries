@@ -1,0 +1,20 @@
+Proposal\ code/*
+!Proposal\ code/rosslerClusters.m
+!Proposal\ code/rosslerClusters_wNoise.m
+!Proposal\ code/generateCosineClusters.m
+!Proposal\ code/cosineClusters.m
+
+Functions/*
+!Functions/config.m
+!Functions/cosineWave.m
+!Functions/getDelay.m
+!Functions/getDim.m
+!Functions/minmaxNorm.m
+!Functions/rossler_system.m
+!Functions/ssim_index.m
+!Functions/generateCosineClusters.m
+
+
+Figures/*
+Presentation/*
+RSADemos/*
